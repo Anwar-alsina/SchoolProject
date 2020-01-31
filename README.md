@@ -1,2 +1,2 @@
-# LifestyleStore
-The Web Development Training by Internshala
+An Online Store.
+
